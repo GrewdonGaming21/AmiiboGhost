@@ -17,5 +17,8 @@
 		<a href="https://github.com/XorTroll/emuiibo" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/Compatible_with-emuiibo-green.svg" heigh
 </p>
-
+			
+			
+<p align="center">
 ![](https://github.com/Ghost0159/AmiiboGhost/blob/master/Other.jpg)
+</p>
