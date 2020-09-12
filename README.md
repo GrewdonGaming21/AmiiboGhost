@@ -20,3 +20,8 @@
 		<a href="" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://github.com/Ghost0159/AmiiboGhost/blob/master/Other.jpg" heigh
 </p>
+			
+<p align="left">
+		<a href="https://github.com/Ghost0159/AmiiboGhost"><img src="https://github.com/Ghost0159/AmiiboGhost/blob/master/Other.jpg"></a><br>
+	<b>Compatibles avec toutes les consoles</b><br>
+</p>
