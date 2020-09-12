@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/Ghost0159/AmiiboGhost"><img src="https://github.com/Ghost0159/AmiiboGhost/blob/master/banner.jpg"></a><br>
-	<b>Un simple repositery contenant plus de 700 amiibo en .bin</b><br>
+	<b>Un repositery contenant plus de 700 amiibo en .bin</b><br>
 </a>
 	<a href="https://github.com/hax0kartik/wumiibo" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/Compatible_with-Wumiibo-green.svg" height="20">
