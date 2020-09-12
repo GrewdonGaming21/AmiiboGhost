@@ -19,6 +19,4 @@
 </p>
 			
 			
-<p align="center">
-<a src="https://github.com/Ghost0159/AmiiboGhost/blob/master/Other.jpg"></a><br>
-</p>
+![](https://github.com/Ghost0159/AmiiboGhost/blob/master/Other.jpg)
