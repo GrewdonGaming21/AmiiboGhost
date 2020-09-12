@@ -10,7 +10,7 @@
 		<img src="https://img.shields.io/badge/Un_simple_repositery_contenant_plus_de-700_amiibo_en_.bin-red.svg" height="20"
 </p>
 			
-<p align="left">
+<p align="">
 	<a href="https://github.com/Ghost0159/AmiiboGhost"><img src="https://github.com/Ghost0159/AmiiboGhost/blob/master/Other.jpg"></a><br>
 	<b>Compatibles avec toutes les consoles</b><br>
 </p>
