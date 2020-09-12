@@ -20,5 +20,5 @@
 			
 			
 <p align="center">
-![](https://github.com/Ghost0159/AmiiboGhost/blob/master/Other.jpg)
+<a src="https://github.com/Ghost0159/AmiiboGhost/blob/master/Other.jpg"></a><br>
 </p>
