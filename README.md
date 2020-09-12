@@ -10,8 +10,8 @@
 		<img src="https://img.shields.io/badge/Un_simple_repositery_contenant_plus_de-700_amiibo_en_.bin-red.svg" height="20"
 </p>
 			
-<p align="">
+<p align="center">
 	<a href="https://github.com/Ghost0159/AmiiboGhost/raw/master/Other.jpg"><img src="https://github.com/Ghost0159/AmiiboGhost/blob/master/Other.jpg"></a><br>
 	<b>Compatibles avec toutes les consoles</b>
-	<a href="https://github.com/Ghost0159/AmiiboGhost/raw/master/amiibo-cat%C3%A9gories.jpg"><img src="https://github.com/Ghost0159/AmiiboGhost/blob/master/amiibo-cat%C3%A9gories.jpg"></a>
-	<b>Des amiibo de toutes les colléction</b><br>
+	<a href="https://github.com/Ghost0159/AmiiboGhost/raw/master/amiibo-cat%C3%A9gories.jpg"><img src="https://github.com/Ghost0159/AmiiboGhost/blob/master/amiibo-cat%C3%A9gories.jpg"></a><br>
+	<b>Des amiibo de toutes les colléction</b>
