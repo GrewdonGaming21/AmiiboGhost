@@ -1,3 +1,5 @@
+English Translation Version
+
 <p align="center">
 	<a href="https://github.com/Ghost0159/AmiiboGhost"><img src="https://github.com/Ghost0159/AmiiboGhost/blob/master/banner.jpg"></a><br>
 	<b>A repositery containing more than 700 amiibo in .bin</b><br>
@@ -13,3 +15,6 @@
 <p align="center">			
 ![](https://github.com/Ghost0159/AmiiboGhost/blob/master/amiibo-cat%C3%A9gories.jpg)
 </p>
+
+Thanks to:
+Ghost0159 for making this
