@@ -15,6 +15,3 @@ English Translation Version
 <p align="center">			
 ![](https://github.com/Ghost0159/AmiiboGhost/blob/master/amiibo-cat%C3%A9gories.jpg)
 </p>
-
-Thanks to:
-Ghost0159 for making this
