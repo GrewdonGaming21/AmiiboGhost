@@ -2,7 +2,7 @@ English Translation Version
 
 <p align="center">
 	<a href="https://github.com/Ghost0159/AmiiboGhost"><img src="https://github.com/Ghost0159/AmiiboGhost/blob/master/banner.jpg"></a><br>
-	<b>A repositery containing more than 700 amiibo in .bin</b><br>
+	<b>A repository containing more than 700 amiibo in .bin</b><br>
 </a>
 	<a href="https://github.com/Ghost0159/AmiiboGhost" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/Compatible_avec:-Wumiibo,_N2elite_(Amiiqo),_Amii_spoofer,_emuiibo-blue.svg" height="20">
