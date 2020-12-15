@@ -1,5 +1,3 @@
-English Translation Version
-
 <p align="center">
 	<a href="https://github.com/GrewdonGaming21/AmiiboGhost"><img src="https://github.com/GrewdonGaming21/AmiiboGhost/blob/master/banner.jpg"></a><br>
 	<b>A repository containing more than 700 amiibo in .bin</b><br>
