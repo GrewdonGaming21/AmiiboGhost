@@ -3,7 +3,7 @@
 	<b>A repository containing more than 700 amiibo in .bin</b><br>
 </a>
 	<a href="https://github.com/Ghost0159/AmiiboGhost" style="padding-left: 5px; padding-right: 5px;">
-		<img src="https://img.shields.io/badge/Compatible_with:-Wumiibo,_N2elite_(Amiiqo),_Amii_spoofer,_emuiibo-blue.svg" height="20">
+		<img src="https://img.shields.io/badge/Compatible_with:-Wumiibo,_N2elite_(Amiiqo),_Amii_spoofer, AmiiGhost,_emuiibo-blue.svg" height="20">
 	<br/>
 </a>
 	<a href="https://github.com/Ghost0159/AmiiboGhost" style="padding-left: 5px; padding-right: 5px;">
